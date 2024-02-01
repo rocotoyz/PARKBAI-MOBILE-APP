@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "195961929914",
+    "firebase_url": "https://parkbai-c8f04-default-rtdb.firebaseio.com",
+    "project_id": "parkbai-c8f04",
+    "storage_bucket": "parkbai-c8f04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195961929914:android:f58027aa787515c4b80283",
+        "android_client_info": {
+          "package_name": "com.parkbai.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM3UiFckbquBsfiqDBdTxUKdOMaabgvr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
